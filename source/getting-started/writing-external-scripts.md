@@ -1,6 +1,6 @@
 # 编写外部脚本
 
-Often you may want to run external scripts that interact with your contracts. Truffle provides an easy way to do this, bootstrapping your contracts based on your desired network and connecting to your Ethereum client automatically per your [project configuration](../reference/configuration.md).
+你经常需要运行外部脚本来和你的智能合约进行交互. Truffle provides an easy way to do this, bootstrapping your contracts based on your desired network and connecting to your Ethereum client automatically per your [project configuration](../reference/configuration.md).
 
 ## 命令
 
